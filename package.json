@@ -1,0 +1,16 @@
+{
+  "name": "electron-reminder-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . ",
+    "dist": "electron-builder"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.0",
+    "electron-builder": "^20.11.1"
+  }
+}

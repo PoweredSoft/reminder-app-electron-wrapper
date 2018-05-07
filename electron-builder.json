@@ -1,0 +1,4 @@
+{
+	"appId": "com.poweredsoft.reminder",
+	"files": ["web/**/*", "main.js", "tray.png"]
+}
